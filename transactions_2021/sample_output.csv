@@ -1,0 +1,11 @@
+,rc_id,ntables,rc_nf,trans_nf,district,block,fpsid,scheme,nunits,ent_wheat,ent_rice,ent_pmgkay_wheat,ent_pmgkay_rice,slno,member,avail_fps,month,year,avail_date,avail_type,avail_wheat,avail_rice,avail_pmgkay_wheat_old,avail_pmgkay_rice_old,avail_pmgkay_whole_chana,avail_pmgkay_pulse,avail_pmgkay_wheat,avail_pmgkay_rice
+0,100100700750XXXXXXXX,2,0,0,Pashchim Champaran,Bagaha,120300200246,PHH,3,6.000,9.000,6.000,9.000,1,<redacted>,120300200244,November,2021,24-11-2021,Bio,6.000,9.000,0.000,0.000,0.000,0.000,6.000,9.000
+1,100100700750XXXXXXXX,2,0,0,Pashchim Champaran,Bagaha,120300200246,PHH,3,6.000,9.000,6.000,9.000,1,<redacted>,120300200244,November,2021,24-11-2021,Bio,6.000,9.000,0.000,0.000,0.000,0.000,6.000,9.000
+2,100100700750XXXXXXXX,2,0,0,Pashchim Champaran,Bagaha,120300200246,PHH,3,6.000,9.000,6.000,9.000,1,<redacted>,120300200244,November,2021,23-11-2021,Bio,6.000,9.000,0.000,0.000,0.000,0.000,6.000,9.000
+3,100100700750XXXXXXXX,2,1,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+4,1020301019216845XXXXXXXX,2,0,0,Pashchim Champaran,Bagaha,120300200246,PHH,2,4.000,6.000,4.000,6.000,1,<redacted>,120300200244,November,2021,24-11-2021,Bio,4.000,6.000,0.000,0.000,0.000,0.000,4.000,6.000
+5,100100700750XXXXXXXX,2,0,0,Pashchim Champaran,Bagaha,120300200246,PHH,4,8.000,12.000,8.000,12.000,1,<redacted>,120300200246,November,2021,25-11-2021,Bio,8.000,12.000,0.000,0.000,0.000,0.000,8.000,12.000
+6,100100700750XXXXXXXX,2,0,0,Pashchim Champaran,Bagaha,120300200246,PHH,5,10.000,15.000,10.000,15.000,1,<redacted>,120300200246,November,2021,04-12-2021,Bio,10.000,15.000,0.000,0.000,0.000,0.000,10.000,15.000
+7,100100700750XXXXXXXX,2,0,0,Pashchim Champaran,Bagaha,120300200246,PHH,2,4.000,6.000,4.000,6.000,1,<redacted>,120300200244,November,2021,23-11-2021,Bio,4.000,6.000,0.000,0.000,0.000,0.000,4.000,6.000
+8,100100700750XXXXXXXX,2,0,0,Pashchim Champaran,Bagaha,120300200246,PHH,3,6.000,9.000,6.000,9.000,1,<redacted>,120300200244,November,2021,23-11-2021,Bio,6.000,9.000,0.000,0.000,0.000,0.000,6.000,9.000
+9,100100700750XXXXXXXX,2,0,-8,Pashchim Champaran,Bagaha,120300200246,PHH,2,4.000,6.000,4.000,6.000,-8,<redacted>,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8,-8

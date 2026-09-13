@@ -140,3 +140,4 @@ dmypy.json
 parsed/
 html/
 *.sqlite.gz*
+!transactions_2021/sample_output.csv
