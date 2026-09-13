@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these data or scripts, please cite them as below."
+title: "Bihar Ration Cards 2022"
+type: dataset
+date-released: 2022-11-17
+authors:
+  - family-names: "Sood"
+    given-names: "Gaurav"
+repository-code: "https://github.com/in-rolls/ration_bihar_2022"
+identifiers:
+  - type: doi
+    value: "10.7910/DVN/CAVZMQ"
+    description: "Bihar Ration Card Data 2022 on Harvard Dataverse (restricted access)."
+license: MIT
+keywords:
+  - ration cards
+  - public distribution system
+  - India
+  - Bihar

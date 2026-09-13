@@ -3,13 +3,9 @@
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-from scrapy import signals
-from scrapy.exceptions import IgnoreRequest
 
 # useful for handling different item types with a single interface
-from itemadapter import is_item, ItemAdapter
-from pprint import pprint
-import urllib.parse
+from scrapy import signals
 
 
 class RationBiharSpiderMiddleware:
@@ -56,7 +52,7 @@ class RationBiharSpiderMiddleware:
             yield r
 
     def spider_opened(self, spider):
-        spider.logger.info('Spider opened: %s' % spider.name)
+        spider.logger.info("Spider opened: %s" % spider.name)
 
 
 class RationBiharDownloaderMiddleware:
@@ -85,10 +81,10 @@ class RationBiharDownloaderMiddleware:
         #   installed downloader middleware will be called
 
         # unique_url = request.url + str(request.meta.get('id_form_data', {}))
-       
+
         # if unique_url not in self.url_list.keys():
         #     self.url_list[unique_url] = 1
- 
+
         # else:
         #     self.url_list[unique_url] += 1
         #     if not 'DispImageHolder' in unique_url:
@@ -98,7 +94,6 @@ class RationBiharDownloaderMiddleware:
         #         raise IgnoreRequest
 
         return None
-            
 
         # # TEST
         # with open('urls', 'w+') as f:
@@ -125,4 +120,4 @@ class RationBiharDownloaderMiddleware:
         pass
 
     def spider_opened(self, spider):
-        spider.logger.info('Spider opened: %s' % spider.name)
+        spider.logger.info("Spider opened: %s" % spider.name)
