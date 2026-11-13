@@ -86,7 +86,7 @@ data = {
 
 # use tqdm to track progress
 for i in tqdm(range(len(url_list[:1000]))):
-    # initalize
+    # initialize
     url = url_list[i]
 
     # loop over links
